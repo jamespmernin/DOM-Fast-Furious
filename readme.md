@@ -3,7 +3,6 @@
 # Working with the DOM
 
 1. Fork
-1. Create a feature branch
 1. Clone
 
 Can you really _manipulate_ The DOM though?
