@@ -17,7 +17,7 @@ window.onload =  function(event) {
   };
   randomQuote();
 
-  // Do all of your work inside the document.addEventListener
+  // Do all of your work inside the window.onload function (in other words, here!)
 
   // Part 1
 
