@@ -24,7 +24,9 @@ This [DOM Gist](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f11
 
 ## Setup
 
-You're provided a basic website with included `index.html`, `style.css`, and `script.js`. All of your work will go in `script.js` - you shouldn't have to edit `index.html` or `style.css`. Please create individual functions for each solution. Don't forget to **call** the function once you're finished.
+You're provided a basic website with included `index.html`, `style.css`, and `script.js`. All of your work will go in `script.js` - you shouldn't have to edit `index.html` or `style.css`. 
+
+*_Please create individual functions for each solution. Don't forget to **call** the function once you're finished._*
 
 ## Completion
 
@@ -62,4 +64,4 @@ Let's add to DOM's **Past Races** list. Create a new `<li>` element, change the 
 
 #### Part 7
 
-Create a new `.blog-post` corresponding to the new city added in **Part 6**. You will have to create a new `<div>` with class of `.blog-post`, a new `<h2>` with text, and a new `<p>` with some text. Think about what order you want to create the elements, and what order you want to append them in.
+Create a new `.blog-post` corresponding to the new city added in **Part 6**. You will have to create a new `<div>` with class of `.blog-post`, a new `<h1>` with text, and a new `<p>` with some text. Make the new element consistent with the other posts. Think about what order you want to create the elements, and what order you want to append them in.
