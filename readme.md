@@ -24,7 +24,9 @@ This [DOM Gist](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f11
 
 ## Setup
 
-You're provided a basic website with included `index.html`, `style.css`, and `script.js`. All of your work will go in `script.js` - you shouldn't have to edit `index.html` or `style.css`. Please create individual functions for each solution. Don't forget to **call** the function once you're finished.
+You're provided a basic website with included `index.html`, `style.css`, and `script.js`. All of your work will go in `script.js` - you shouldn't have to edit `index.html` or `style.css`. 
+
+*_Please create individual functions for each solution. Don't forget to **call** the function once you're finished._*
 
 ## Completion
 
